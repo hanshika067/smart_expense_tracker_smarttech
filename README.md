@@ -128,11 +128,6 @@ MongoDB
 ```
 
 ---
-## 👩‍💻 Author
-
-**Hanshika**
-
-* GitHub: https://github.com/hanshika067
 
 ---
 
